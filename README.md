@@ -8,7 +8,7 @@ In this project, I am going to focus on the following objectives:
 - Image Data Augmentation with Keras.
 - Use Image Data Generator with a Keras Model.
 
-By the end of this course, I was able to use Image Data Generators in Keras to augment and normalize my dataset, as well as be able to use Image Data Generators in model training.
+By the end of this project, I was able to use Image Data Generators in Keras to augment and normalize my dataset, as well as be able to use Image Data Generators in model training.
 
 
 The project on Image Data Augmentation with Keras was divided into following tasks:
